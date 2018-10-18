@@ -12,7 +12,6 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan
 @EnableAutoConfiguration
 @SpringBootApplication
-
 public class DemoApplication extends SpringBootServletInitializer{
 
 	public static void main(String[] args) {
